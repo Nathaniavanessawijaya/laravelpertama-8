@@ -1,2 +1,2 @@
 # laravelpertama
-Tugas 7 PI lanjut - laravelpertama
+Tugas 8 PI lanjut - laravelpertama
